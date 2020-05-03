@@ -1,6 +1,5 @@
 /** @jsx jsx */
-import React, { useState, useCallback, useMemo } from "react";
-import logo from "./logo.svg";
+import React, { useState, useMemo } from "react";
 import "./App.css";
 import { Day, AvailableDayType } from "./components/Day";
 import { Layout, Button } from "element-react";
