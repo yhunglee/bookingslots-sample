@@ -19,5 +19,5 @@ You will also see any lint errors in the console.
 
 ### Screenshots
 
-![week1](assets/pics/screenshot_react_project_2020-05-04 00.23.17.png?raw=true "First week")
-![week2](assets/pics/screenshot_react_project_2020-05-04 00.23.24.png?raw=true "Second week")
+![week1](https://github.com/yhunglee/bookingslots-sample/assets/pics/screenshot_react_project_2020-05-04 00.23.17.png?raw=true "First week")  
+![week2](https://github.com/yhunglee/bookingslots-sample/assets/pics/screenshot_react_project_2020-05-04 00.23.24.png?raw=true "Second week")
