@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Author
 
 Howard Lee.  
-This is a testing project with `react` and `typescript`.
+This is a testing project with `react` and `typescript` for amazingTalker.
 
 ## Available Scripts
 
