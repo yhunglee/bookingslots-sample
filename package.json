@@ -13,7 +13,7 @@
     "element-react": "^1.4.34",
     "element-theme-default": "^1.4.13",
     "emotion": "10.0.27",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "moment-timezone": "0.5.28",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -47,6 +47,6 @@
     "@types/react-dom": "^16.9.7"
   },
   "resolutions": {
-    "moment": "2.24.0"
+    "moment": "2.29.4"
   }
 }
